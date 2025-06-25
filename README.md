@@ -1,12 +1,42 @@
-# React + Vite
+# 🩺 DocSpot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DocSpot** is a sleek doctor appointment booking platform where users can view available doctors, check detailed profiles, and book appointments with ease. Built with modern tools like React and Firebase, this app is fully responsive and optimized for mobile.
 
-Currently, two official plugins are available:
+---
+## 🌐 Live Demo  
+🔗 [Live Link](https://docspot-5d8d2.web.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🖼️ Screenshots
+[All Blogs Screenshot](https://i.ibb.co/PszHm7J6/Screenshot-2025-06-25-171804.png)
 
-## Expanding the ESLint configuration
+[Recommended Blogs Screenshot](https://i.ibb.co/NgtPWyRg/Screenshot-2025-06-25-171827.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 👨‍⚕️ **Browse Doctors** – See which doctors are available by specialty  
+- 📄 **Doctor Details** – View info like name, degree, availability, and expertise  
+- 📅 **Book Appointments** – Instantly book a time slot with a preferred doctor  
+- 📋 **My Bookings** – View your appointment history and upcoming visits  
+- 📱 **Responsive UI** – Smooth user experience across all devices  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Vite)  
+- **Tailwind CSS** + **DaisyUI**  
+- **React Router DOM**  
+- **Firebase** (Authentication + Firestore)  
+- **Mobile-First Design**
+
+---
+
+## 📦 Dependencies
+
+bash
+"firebase": "^9.x.x"
+"react": "^18.x.x"
+"react-dom": "^18.x.x"
+"react-router-dom": "^6.x.x"
+"tailwindcss": "^3.x.x"
+"daisyui": "^3.x.x"
