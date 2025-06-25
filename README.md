@@ -7,9 +7,9 @@
 🔗 [Live Link](https://docspot-5d8d2.web.app/)
 
 🖼️ Screenshots
-[All Blogs Screenshot](https://i.ibb.co/PszHm7J6/Screenshot-2025-06-25-171804.png)
+[Details](https://i.ibb.co/PszHm7J6/Screenshot-2025-06-25-171804.png)
 
-[Recommended Blogs Screenshot](https://i.ibb.co/NgtPWyRg/Screenshot-2025-06-25-171827.png)
+[Boking](https://i.ibb.co/NgtPWyRg/Screenshot-2025-06-25-171827.png)
 
 ## 🚀 Features
 
@@ -40,3 +40,17 @@ bash
 "react-router-dom": "^6.x.x"
 "tailwindcss": "^3.x.x"
 "daisyui": "^3.x.x"
+
+Run Localy
+# 1. Clone the repository
+git clone https://github.com/your-username/docspot.git
+
+# 2. Navigate to the project folder
+cd docspot
+
+# 3. Install all required dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
