@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "question": "What is useState and how does it work in React?",
+      "answer": "It adds state to functional components. You get [value, setValue] and use it to update state and re-render."
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of useEffect in React?",
+      "answer": "It runs side effects like data fetch, DOM update, or timers after render."
+    },
+    {
+      "id": 3,
+      "question": "What is a custom hook in React and when should you use one?",
+      "answer": "A reusable function using other hooks. Use it to avoid repeating logic."
+    },
+    {
+      "id": 4,
+      "question": "Difference between controlled and uncontrolled components? Which one is better?",
+      "answer": "Controlled uses state, uncontrolled uses ref. Controlled is better for form control."
+    },
+    {
+      "id": 5,
+      "question": "Tell us something about useFormStatus() (explore and explain)",
+      "answer": "It’s from Next.js. Shows if form is submitting (pending) — useful for disabling buttons or showing loaders."
+    }
+  ]
+  
